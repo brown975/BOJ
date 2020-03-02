@@ -1,2 +1,2 @@
 # Please identify the source
-boj id:brown597
+BOJ ID:brown597
