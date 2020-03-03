@@ -1,4 +1,4 @@
 - Please identify the source
 - BOJ ID:brown597
 - Do NOT copy my source
-- if there is error, please comment
+- if there is error, please leave a comment
