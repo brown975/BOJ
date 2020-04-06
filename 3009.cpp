@@ -5,7 +5,7 @@ int main() {
     if (a - d) {
         if (g - d) {
             if (s - f)
-                printf("%d %d", d, h);
+                printf("%d %d", d, s);
             else
                 printf("%d %d", d, h);
         }
