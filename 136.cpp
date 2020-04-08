@@ -1,0 +1,7 @@
+a=int(input())
+s=int(input())
+d=int(input())
+f=int(input())
+g=int(input())
+h=int(input())
+print(a+s+d+f-min(min(a,s),min(d,f))+max(g,h))
