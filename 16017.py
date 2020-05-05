@@ -1,0 +1,6 @@
+a=int(input())
+s=int(input())
+d=int(input())
+f=int(input())
+if bool(a-8 and a-9) or bool(f-8 and f-9) or s-d:print("answer")
+else:print("ignore")
